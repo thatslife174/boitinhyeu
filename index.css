@@ -1,0 +1,70 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: violet;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-image: url('./736461.png');
+}
+
+.boxname{
+    margin-top: 120px;
+    width: 100vw;
+    height: 50vh;
+}
+
+.content{
+    display: flex;
+    margin: 0 auto;
+    width: 60%;
+}
+
+.banner{
+    width: 98vw;
+    height: 12vh;
+    font-size: 60px;
+    text-align: center;
+}
+
+._name{
+    margin-top: 100px;
+}
+
+input[type="text"]{
+    font-size: 24px;
+    border: 2px violet solid;
+    border-radius: 12px;
+}
+
+.label{
+    margin-left: 50px;
+}
+
+.check{
+    width: 100vw;
+    margin-top: 35px;
+    margin-left: -15px;
+    text-align: center;
+}
+
+button{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    border: #D90026 2px solid;
+    border-radius: 12px;
+    background-color: pink;
+}
+
+.image{
+    width: 480px;
+    height: 480px;
+    margin: 0 auto;
+}
+
+.image p{
+    font-size: 70px;
+    text-align: center;
+}
